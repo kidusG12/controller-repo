@@ -1,0 +1,4 @@
+#Sat Sep 18 22:05:45 EAT 2021
+base.0=C\:\\Users\\Kidus\\Desktop\\apps\\control\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
